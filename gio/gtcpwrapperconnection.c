@@ -1,4 +1,4 @@
-/* GIO - GLib Input, Output and Streaming Library
+﻿/* GIO - GLib Input, Output and Streaming Library
  *
  * Copyright © 2010 Collabora Ltd.
  *

@@ -1,4 +1,4 @@
-#include <glib-object.h>
+﻿#include <glib-object.h>
 #include "marshalers.h"
 
 #define g_assert_cmpflags(type,n1, cmp, n2) G_STMT_START { \

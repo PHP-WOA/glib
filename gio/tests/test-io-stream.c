@@ -1,4 +1,4 @@
-/* Simple I/O stream. This is a utility class for tests, not a test.
+﻿/* Simple I/O stream. This is a utility class for tests, not a test.
  *
  * Copyright © 2008-2010 Red Hat, Inc.
  * Copyright © 2011 Nokia Corporation

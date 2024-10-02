@@ -1,4 +1,4 @@
-/* ghmac.h - secure data hashing
+﻿/* ghmac.h - secure data hashing
  *
  * Copyright (C) 2011  Stef Walter  <stefw@collabora.co.uk>
  *

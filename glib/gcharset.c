@@ -1,4 +1,4 @@
-/* gcharset.c - Charset information
+﻿/* gcharset.c - Charset information
  *
  * Copyright (C) 2011 Red Hat, Inc.
  *

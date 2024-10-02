@@ -1,4 +1,4 @@
-#include <glib.h>
+﻿#include <glib.h>
 
 #if defined(__GNUC__) && (__GNUC__ >= 4)
 # define TEST_BUILTINS 1

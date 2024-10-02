@@ -1,4 +1,4 @@
-/* Test module for GIOModule tests
+﻿/* Test module for GIOModule tests
  * Copyright (C) 2013 Red Hat, Inc
  * Author: Matthias Clasen
  *

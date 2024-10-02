@@ -1,4 +1,4 @@
-/* inotify-helper.h - GVFS Directory Monitor using inotify
+﻿/* inotify-helper.h - GVFS Directory Monitor using inotify
 
    Copyright (C) 2007 John McCutchan
 

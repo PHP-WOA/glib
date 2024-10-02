@@ -1,4 +1,4 @@
-#include <glib-object.h>
+﻿#include <glib-object.h>
 
 /* --------------------------------- */
 /* test_object_constructor_singleton */

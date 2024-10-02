@@ -1,4 +1,4 @@
-
+﻿
 #include "gdbus-object-manager-example/gdbus-example-objectmanager-generated.h"
 
 /* ---------------------------------------------------------------------------------------------------- */

@@ -1,4 +1,4 @@
-/* Test case for GNOME #662395
+﻿/* Test case for GNOME #662395
  *
  * Copyright (C) 2008-2010 Red Hat, Inc.
  * Copyright (C) 2011 Nokia Corporation

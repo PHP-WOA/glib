@@ -1,4 +1,4 @@
-/* GDBus - GLib D-Bus Library
+﻿/* GDBus - GLib D-Bus Library
  *
  * Copyright (C) 2008-2010 Red Hat, Inc.
  *

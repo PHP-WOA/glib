@@ -1,4 +1,4 @@
-/* Unit tests for GMutex
+﻿/* Unit tests for GMutex
  * Copyright (C) 2011 Red Hat, Inc
  * Author: Matthias Clasen
  *

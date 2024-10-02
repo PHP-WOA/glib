@@ -1,4 +1,4 @@
-#include <glib/glib.h>
+﻿#include <glib/glib.h>
 #include <glib/gstdio.h>
 #include <gio/gio.h>
 #include <string.h>

@@ -1,4 +1,4 @@
-/* Unit tests for g
+﻿/* Unit tests for g
  * Copyright (C) 2010 Red Hat, Inc.
  *
  * This work is provided "as is"; redistribution and modification

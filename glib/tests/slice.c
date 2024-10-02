@@ -1,4 +1,4 @@
-#include <string.h>
+﻿#include <string.h>
 #include <glib.h>
 
 /* We test deprecated functionality here */

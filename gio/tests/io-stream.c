@@ -1,4 +1,4 @@
-/* GLib testing framework examples and tests
+﻿/* GLib testing framework examples and tests
  * Copyright (C) 2010 Collabora Ltd.
  * Authors: Xavier Claessens <xclaesse@gmail.com>
  *

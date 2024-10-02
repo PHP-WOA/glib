@@ -1,4 +1,4 @@
-/* libgplugin_b.c - test plugin for testgmodule
+﻿/* libgplugin_b.c - test plugin for testgmodule
  * Copyright (C) 1998 Tim Janik
  *
  * This library is free software; you can redistribute it and/or

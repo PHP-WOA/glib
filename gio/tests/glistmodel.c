@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright 2015 Lars Uebernickel
  *
  * This library is free software; you can redistribute it and/or

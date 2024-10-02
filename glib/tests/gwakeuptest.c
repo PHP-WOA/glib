@@ -1,4 +1,4 @@
-#include <glib.h>
+﻿#include <glib.h>
 #include <glib/gwakeup.h>
 #ifdef G_OS_UNIX
 #include <unistd.h>

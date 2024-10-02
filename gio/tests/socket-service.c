@@ -1,4 +1,4 @@
-/* GLib testing framework examples and tests
+﻿/* GLib testing framework examples and tests
  *
  * Copyright 2014 Red Hat, Inc.
  *

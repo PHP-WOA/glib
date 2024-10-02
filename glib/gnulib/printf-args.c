@@ -1,4 +1,4 @@
-/* Decomposed printf argument list.
+﻿/* Decomposed printf argument list.
    Copyright (C) 1999, 2002-2003, 2005-2007, 2009-2016 Free Software
    Foundation, Inc.
 

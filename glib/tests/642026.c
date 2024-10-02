@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Author: Simon McVittie <simon.mcvittie@collabora.co.uk>
  * Copyright © 2011 Nokia Corporation
  *

@@ -1,4 +1,4 @@
-/* Unit tests for utilities
+﻿/* Unit tests for utilities
  * Copyright (C) 2010 Red Hat, Inc.
  * Copyright (C) 2011 Google, Inc.
  *

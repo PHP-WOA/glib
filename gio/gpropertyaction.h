@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright © 2013 Canonical Limited
  *
  * This library is free software; you can redistribute it and/or

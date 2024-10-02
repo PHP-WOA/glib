@@ -1,4 +1,4 @@
-#include <gio/gio.h>
+﻿#include <gio/gio.h>
 #include <string.h>
 
 #define g_assert_content_type_equals(s1, s2) 			\

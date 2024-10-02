@@ -1,4 +1,4 @@
-/* gbinding.c: Binding for object properties
+﻿/* gbinding.c: Binding for object properties
  *
  * Copyright (C) 2010  Intel Corp.
  *

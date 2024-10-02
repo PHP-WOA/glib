@@ -1,4 +1,4 @@
-/* -*- mode: C; c-file-style: "gnu" -*- */
+﻿/* -*- mode: C; c-file-style: "gnu" -*- */
 /* xdgmimealias.c: Private file.  mmappable caches for mime data
  *
  * More info can be found at http://www.freedesktop.org/standards/

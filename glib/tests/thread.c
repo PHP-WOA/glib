@@ -1,4 +1,4 @@
-/* Unit tests for GThread
+﻿/* Unit tests for GThread
  * Copyright (C) 2011 Red Hat, Inc
  * Author: Matthias Clasen
  *

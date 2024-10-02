@@ -1,4 +1,4 @@
-#ifndef _MSC_VER
+﻿#ifndef _MSC_VER
 #pragma error "This header is for Microsoft VC only."
 #endif /* _MSC_VER */
 

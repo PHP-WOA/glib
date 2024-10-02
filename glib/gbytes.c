@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright © 2009, 2010 Codethink Limited
  * Copyright © 2011 Collabora Ltd.
  *

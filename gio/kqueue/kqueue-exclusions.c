@@ -1,4 +1,4 @@
-/*******************************************************************************
+﻿/*******************************************************************************
   Copyright (c) 2012 Dmitry Matveev <me@dmitrymatveev.co.uk>
   Copyright (c) 2012 Antoine Jacoutot <ajacoutot@openbsd.org>
 

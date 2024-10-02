@@ -1,4 +1,4 @@
-/* Unit tests for GPermission
+﻿/* Unit tests for GPermission
  * Copyright (C) 2012 Red Hat, Inc
  * Author: Matthias Clasen
  *

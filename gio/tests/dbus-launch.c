@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Mock version of dbus-launch, for gdbus-unix-addresses test
  *
  * Copyright © 2015 Collabora Ltd.

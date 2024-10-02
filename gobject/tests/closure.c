@@ -1,4 +1,4 @@
-#include <glib-object.h>
+﻿#include <glib-object.h>
 
 #ifdef G_OS_UNIX
 #include <glib-unix.h>

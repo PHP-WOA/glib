@@ -1,4 +1,4 @@
-/* Unit tests for GMainLoop
+﻿/* Unit tests for GMainLoop
  * Copyright (C) 2011 Red Hat, Inc
  * Author: Matthias Clasen
  *

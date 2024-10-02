@@ -1,4 +1,4 @@
-#define GLIB_DISABLE_DEPRECATION_WARNINGS
+﻿#define GLIB_DISABLE_DEPRECATION_WARNINGS
 
 #include <glib.h>
 #include <string.h>

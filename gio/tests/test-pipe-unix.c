@@ -1,4 +1,4 @@
-/* Unix pipe-to-self. This is a utility module for tests, not a test.
+﻿/* Unix pipe-to-self. This is a utility module for tests, not a test.
  *
  * Copyright © 2008-2010 Red Hat, Inc.
  * Copyright © 2011 Nokia Corporation

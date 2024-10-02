@@ -1,4 +1,4 @@
-/* GLib testing framework examples and tests
+﻿/* GLib testing framework examples and tests
  * Copyright (C) 2008 Imendio AB
  * Authors: Tim Janik
  *

@@ -1,4 +1,4 @@
-/* GIO - GLib Input, Output and Streaming Library
+﻿/* GIO - GLib Input, Output and Streaming Library
  *
  * Copyright © 2012,2013 Colin Walters <walters@verbum.org>
  * Copyright © 2012,2013 Canonical Limited

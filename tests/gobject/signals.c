@@ -1,4 +1,4 @@
-/* GObject - GLib Type, Object, Parameter and Signal Library
+﻿/* GObject - GLib Type, Object, Parameter and Signal Library
  * Copyright (C) 2013 Red Hat, Inc.
  * Copy and pasted from accumulator.c and modified.
  *

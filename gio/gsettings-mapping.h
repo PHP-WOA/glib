@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright © 2010 Novell, Inc.
  *
  * This library is free software; you can redistribute it and/or

@@ -1,4 +1,4 @@
-/* 
+﻿/* 
  * Copyright (C) 2011 Red Hat, Inc.
  *
  * This work is provided "as is"; redistribution and modification

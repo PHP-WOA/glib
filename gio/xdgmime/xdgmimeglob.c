@@ -1,4 +1,4 @@
-/* -*- mode: C; c-file-style: "gnu" -*- */
+﻿/* -*- mode: C; c-file-style: "gnu" -*- */
 /* xdgmimeglob.c: Private file.  Datastructure for storing the globs.
  *
  * More info can be found at http://www.freedesktop.org/standards/

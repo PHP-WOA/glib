@@ -1,4 +1,4 @@
-/* GIO testing utilities
+﻿/* GIO testing utilities
  *
  * Copyright (C) 2008-2010 Red Hat, Inc.
  * Copyright (C) 2012 Collabora Ltd. <http://www.collabora.co.uk/>

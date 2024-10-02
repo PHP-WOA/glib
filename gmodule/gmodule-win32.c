@@ -1,4 +1,4 @@
-/* GMODULE - GLIB wrapper code for dynamic module loading
+﻿/* GMODULE - GLIB wrapper code for dynamic module loading
  * Copyright (C) 1998, 2000 Tim Janik
  *
  * Win32 GMODULE implementation

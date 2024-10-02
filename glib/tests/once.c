@@ -1,4 +1,4 @@
-
+﻿
 /* Unit tests for GOnce and friends
  * Copyright (C) 2011 Red Hat, Inc
  * Author: Matthias Clasen

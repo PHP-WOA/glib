@@ -1,4 +1,4 @@
-#include <glib-object.h>
+﻿#include <glib-object.h>
 
 static const GEnumValue my_enum_values[] =
 {

@@ -1,4 +1,4 @@
-
+﻿
 #include <locale.h>
 #include <string.h>
 

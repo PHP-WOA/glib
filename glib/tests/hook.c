@@ -1,4 +1,4 @@
-/* Unit tests for hook lists
+﻿/* Unit tests for hook lists
  * Copyright (C) 2011 Red Hat, Inc.
  *
  * This work is provided "as is"; redistribution and modification

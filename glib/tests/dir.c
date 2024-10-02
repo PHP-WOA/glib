@@ -1,4 +1,4 @@
-#include <glib.h>
+﻿#include <glib.h>
 
 static void
 test_dir_read (void)

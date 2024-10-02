@@ -1,4 +1,4 @@
-/* -*- mode: C; c-file-style: "gnu" -*- */
+﻿/* -*- mode: C; c-file-style: "gnu" -*- */
 /* xdgmimealias.h: Private file.  Datastructure for storing the aliases.
  *
  * More info can be found at http://www.freedesktop.org/standards/

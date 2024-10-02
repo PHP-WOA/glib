@@ -1,4 +1,4 @@
-/*
+﻿/*
   If G_HAS_CONSTRUCTORS is true then the compiler support *both* constructors and
   destructors, in a sane way, including e.g. on library unload. If not you're on
   your own.

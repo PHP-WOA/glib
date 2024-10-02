@@ -1,4 +1,4 @@
-#include <glib.h>
+﻿#include <glib.h>
 #include <glib-object.h>
 
 #define G_TYPE_TEST                (my_test_get_type ())

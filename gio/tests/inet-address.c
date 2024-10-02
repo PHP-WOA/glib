@@ -1,4 +1,4 @@
-/* Unit tests for GInetAddress
+﻿/* Unit tests for GInetAddress
  * Copyright (C) 2012 Red Hat, Inc
  * Author: Matthias Clasen
  *

@@ -1,4 +1,4 @@
-/*
+﻿/*
    Copyright (C) 2005 John McCutchan
    Copyright © 2015 Canonical Limited
 

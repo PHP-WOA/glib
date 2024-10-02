@@ -1,4 +1,4 @@
-#undef G_DISABLE_ASSERT
+﻿#undef G_DISABLE_ASSERT
 #undef G_LOG_DOMAIN
 
 /* We are testing some deprecated APIs here */

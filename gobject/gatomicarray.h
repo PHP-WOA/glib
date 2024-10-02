@@ -1,4 +1,4 @@
-/* GObject - GLib Type, Object, Parameter and Signal Library
+﻿/* GObject - GLib Type, Object, Parameter and Signal Library
  * Copyright (C) 2009 Benjamin Otte <otte@gnome.org>
  *
  * This library is free software; you can redistribute it and/or

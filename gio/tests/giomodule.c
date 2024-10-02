@@ -1,4 +1,4 @@
-/* Unit tests for GIOModule
+﻿/* Unit tests for GIOModule
  * Copyright (C) 2013 Red Hat, Inc
  * Author: Matthias Clasen
  *

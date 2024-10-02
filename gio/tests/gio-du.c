@@ -1,4 +1,4 @@
-#include <gio/gio.h>
+﻿#include <gio/gio.h>
 #include <locale.h>
 
 static gboolean option_use_async;

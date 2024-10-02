@@ -1,4 +1,4 @@
-#include <glib.h>
+﻿#include <glib.h>
 
 #define ITERATIONS 100000000
 

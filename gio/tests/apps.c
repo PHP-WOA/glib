@@ -1,4 +1,4 @@
-#include <gio/gio.h>
+﻿#include <gio/gio.h>
 #include <gio/gdesktopappinfo.h>
 #include <locale.h>
 #include <stdlib.h>

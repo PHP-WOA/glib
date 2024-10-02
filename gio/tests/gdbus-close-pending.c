@@ -1,4 +1,4 @@
-/* GDBus regression test - close a stream when a message remains to be written
+﻿/* GDBus regression test - close a stream when a message remains to be written
  *
  * Copyright © 2006-2010 Red Hat, Inc.
  * Copyright © 2011 Nokia Corporation

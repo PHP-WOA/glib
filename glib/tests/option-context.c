@@ -1,4 +1,4 @@
-/* Unit tests for GOptionContext
+﻿/* Unit tests for GOptionContext
  * Copyright (C) 2007 Openismus GmbH
  * Authors: Mathias Hasselmann
  *

@@ -1,4 +1,4 @@
-/* gcharset.h - Charset functions
+﻿/* gcharset.h - Charset functions
  *
  *  Copyright (C) 2011 Red Hat, Inc.
  *

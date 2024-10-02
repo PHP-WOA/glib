@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright © 2009-10 Sam Thursfield
  *
  * This library is free software; you can redistribute it and/or

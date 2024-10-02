@@ -1,4 +1,4 @@
-/* Unit tests for GCond
+﻿/* Unit tests for GCond
  * Copyright (C) 2011 Red Hat, Inc
  * Author: Matthias Clasen
  *

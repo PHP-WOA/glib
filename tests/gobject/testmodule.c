@@ -1,4 +1,4 @@
-/* GObject - GLib Type, Object, Parameter and Signal Library
+﻿/* GObject - GLib Type, Object, Parameter and Signal Library
  * testmodule.c: Dummy dynamic type module
  * Copyright (C) 2003 Red Hat, Inc.
  *

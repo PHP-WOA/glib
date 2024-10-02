@@ -1,4 +1,4 @@
-
+﻿
 /* Generated data (by glib-mkenums) */
 
 #include "config.h"

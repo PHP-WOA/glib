@@ -1,4 +1,4 @@
-/* Unit tests for GPrivate and friends
+﻿/* Unit tests for GPrivate and friends
  * Copyright (C) 2011 Red Hat, Inc
  * Author: Matthias Clasen
  *

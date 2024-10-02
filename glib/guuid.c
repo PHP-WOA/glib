@@ -1,4 +1,4 @@
-/* guuid.c - UUID functions
+﻿/* guuid.c - UUID functions
  *
  * Copyright (C) 2013-2015, 2017 Red Hat, Inc.
  *

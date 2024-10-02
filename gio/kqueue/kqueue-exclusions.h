@@ -1,4 +1,4 @@
-/*******************************************************************************
+﻿/*******************************************************************************
   Copyright (c) 2012 Dmitry Matveev <me@dmitrymatveev.co.uk>
 
   Permission is hereby granted, free of charge, to any person obtaining a copy

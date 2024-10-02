@@ -1,4 +1,4 @@
-/* Note: This file is no longer generated.  See the comment in gmarshal.list */
+﻿/* Note: This file is no longer generated.  See the comment in gmarshal.list */
 #ifndef __G_MARSHAL_H__
 #define __G_MARSHAL_H__
 

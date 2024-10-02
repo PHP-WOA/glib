@@ -1,4 +1,4 @@
-#include "giotypes.h"
+﻿#include "giotypes.h"
 
 typedef struct _GApplicationImpl GApplicationImpl;
 

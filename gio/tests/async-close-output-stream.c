@@ -1,4 +1,4 @@
-/* GLib testing framework examples and tests
+﻿/* GLib testing framework examples and tests
  * Authors: Jesse van den Kieboom <jessevdk@gnome.org>
  *
  * This work is provided "as is"; redistribution and modification

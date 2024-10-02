@@ -1,4 +1,4 @@
-#include <stdlib.h>
+﻿#include <stdlib.h>
 #include <locale.h>
 #include <libintl.h>
 #include <gio/gio.h>

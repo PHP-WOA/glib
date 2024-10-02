@@ -1,0 +1,8 @@
+.vs
+*.user
+win32/vsauto/Release_BundledPCRE
+win32/vsauto/Release
+config.h
+glibconfig.h
+gnetworking.h
+gmoduleconf.h

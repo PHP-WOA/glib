@@ -1,4 +1,4 @@
-/* gen-mirroring-tab.c - generate gmirroringtable.h for glib
+﻿/* gen-mirroring-tab.c - generate gmirroringtable.h for glib
  * copied from FriBidi.
  *
  * $Id$

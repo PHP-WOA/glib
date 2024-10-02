@@ -1,4 +1,4 @@
-#include <glib.h>
+﻿#include <glib.h>
 
 #define SIZE       50
 #define NUMBER_MIN 0000

@@ -1,4 +1,4 @@
-/* gmain-internal.h - GLib-internal mainloop API
+﻿/* gmain-internal.h - GLib-internal mainloop API
  * Copyright (C) 2011 Red Hat, Inc.
  *
  * This library is free software; you can redistribute it and/or

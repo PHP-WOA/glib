@@ -1,4 +1,4 @@
-/* glib-private.h - GLib-internal private API, shared between glib, gobject, gio
+﻿/* glib-private.h - GLib-internal private API, shared between glib, gobject, gio
  * Copyright (C) 2011 Red Hat, Inc.
  *
  * This library is free software; you can redistribute it and/or

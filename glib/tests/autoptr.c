@@ -1,4 +1,4 @@
-#include <glib.h>
+﻿#include <glib.h>
 #include <string.h>
 
 static void

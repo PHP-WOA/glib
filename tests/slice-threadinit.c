@@ -1,4 +1,4 @@
-/* slice-threadinit.c - test GSlice across g_thread_init
+﻿/* slice-threadinit.c - test GSlice across g_thread_init
  * Copyright (C) 2007 Tim Janik
  *
  * This work is provided "as is"; redistribution and modification

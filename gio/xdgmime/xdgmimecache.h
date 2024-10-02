@@ -1,4 +1,4 @@
-/* -*- mode: C; c-file-style: "gnu" -*- */
+﻿/* -*- mode: C; c-file-style: "gnu" -*- */
 /* xdgmimecache.h: Private file.  Datastructure for mmapped caches.
  *
  * More info can be found at http://www.freedesktop.org/standards/

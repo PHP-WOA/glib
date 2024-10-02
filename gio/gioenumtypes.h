@@ -1,4 +1,4 @@
-
+﻿
 /* Generated data (by glib-mkenums) */
 
 #ifndef __GIO_ENUM_TYPES_H__

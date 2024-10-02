@@ -1,4 +1,4 @@
-#undef G_DISABLE_ASSERT
+﻿#undef G_DISABLE_ASSERT
 
 #include <glib.h>
 #include <time.h>

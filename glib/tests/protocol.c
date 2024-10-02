@@ -1,4 +1,4 @@
-/* This file is part of GLib
+﻿/* This file is part of GLib
  *
  * Copyright (C) 2010  Sven Herzberg
  *

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2005 - 2006, Marco Barisione <marco@barisione.org>
  * Copyright (C) 2010 Red Hat, Inc.
  *

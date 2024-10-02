@@ -1,4 +1,4 @@
-/*
+﻿/*
    Copyright (C) 2005 John McCutchan
 
    This library is free software; you can redistribute it and/or

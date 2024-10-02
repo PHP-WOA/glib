@@ -1,4 +1,4 @@
-/* GLIB - Library of useful routines for C programming
+﻿/* GLIB - Library of useful routines for C programming
  *
  * Copyright (C) 2010 Mikhail Zabaluev <mikhail.zabaluev@gmail.com>
  *

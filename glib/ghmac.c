@@ -1,4 +1,4 @@
-/* ghmac.h - data hashing functions
+﻿/* ghmac.h - data hashing functions
  *
  * Copyright (C) 2011  Collabora Ltd.
  *

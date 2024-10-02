@@ -1,4 +1,4 @@
-typedef enum
+﻿typedef enum
 {
   TEST_ENUM_FOO,
   TEST_ENUM_BAR,

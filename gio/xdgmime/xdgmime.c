@@ -1,4 +1,4 @@
-/* -*- mode: C; c-file-style: "gnu" -*- */
+﻿/* -*- mode: C; c-file-style: "gnu" -*- */
 /* xdgmime.c: XDG Mime Spec mime resolver.  Based on version 0.11 of the spec.
  *
  * More info can be found at http://www.freedesktop.org/standards/

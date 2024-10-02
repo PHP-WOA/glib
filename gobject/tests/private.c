@@ -1,4 +1,4 @@
-#include <glib-object.h>
+﻿#include <glib-object.h>
 
 typedef struct {
   GObject parent_instance;

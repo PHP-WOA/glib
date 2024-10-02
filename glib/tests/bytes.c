@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright 2011 Collabora Ltd.
  *
  * This program is free software; you can redistribute it and/or

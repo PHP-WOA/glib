@@ -1,4 +1,4 @@
-/* guuid.c
+﻿/* guuid.c
  *
  * Copyright (C) 2013-2015, 2017 Red Hat, Inc.
  *

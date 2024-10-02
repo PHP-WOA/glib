@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2011 Red Hat, Inc.
  *
  * This library is free software; you can redistribute it and/or

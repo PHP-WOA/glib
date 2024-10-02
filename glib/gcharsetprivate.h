@@ -1,4 +1,4 @@
-/* gunicodeprivate.h
+﻿/* gunicodeprivate.h
  *
  * Copyright (C) 2012 Red Hat, Inc.
  *

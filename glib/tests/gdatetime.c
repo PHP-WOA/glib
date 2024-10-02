@@ -1,4 +1,4 @@
-/* gdatetime-tests.c
+﻿/* gdatetime-tests.c
  *
  * Copyright (C) 2009-2010 Christian Hergert <chris@dronelabs.com>
  *

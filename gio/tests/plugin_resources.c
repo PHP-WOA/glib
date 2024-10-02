@@ -1,4 +1,4 @@
-#include <gio/gio.h>
+﻿#include <gio/gio.h>
 
 #if defined (__ELF__) && ( __GNUC__ > 2 || (__GNUC__ == 2 && __GNUC_MINOR__ >= 6))
 # define SECTION __attribute__ ((section (".gresource.g_plugin"), aligned (8)))

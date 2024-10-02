@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright © 2010 Codethink Limited
  * Copyright © 2010 Novell, Inc.
  *

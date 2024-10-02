@@ -1,4 +1,4 @@
-#include <gio/gio.h>
+﻿#include <gio/gio.h>
 
 #define G_TYPE_DBUS_DAEMON (_g_dbus_daemon_get_type ())
 #define G_DBUS_DAEMON(o) (G_TYPE_CHECK_INSTANCE_CAST ((o), G_TYPE_DBUS_DAEMON, GDBusDaemon))

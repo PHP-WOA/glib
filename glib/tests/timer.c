@@ -1,4 +1,4 @@
-/* Unit tests for GTimer
+﻿/* Unit tests for GTimer
  * Copyright (C) 2013 Red Hat, Inc.
  *
  * This work is provided "as is"; redistribution and modification

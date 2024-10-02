@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright © 2011 Ryan Lortie
  *
  * This library is free software; you can redistribute it and/or

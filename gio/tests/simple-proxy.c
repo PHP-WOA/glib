@@ -1,4 +1,4 @@
-/* GStaticProxyResolver tests
+﻿/* GStaticProxyResolver tests
  *
  * Copyright 2011, 2013 Red Hat, Inc.
  *

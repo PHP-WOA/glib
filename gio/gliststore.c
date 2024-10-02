@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright 2015 Lars Uebernickel
  * Copyright 2015 Ryan Lortie
  *

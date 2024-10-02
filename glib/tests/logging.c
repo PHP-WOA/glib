@@ -1,4 +1,4 @@
-#include <stdlib.h>
+﻿#include <stdlib.h>
 #include <string.h>
 #define G_LOG_USE_STRUCTURED 1
 #include <glib.h>

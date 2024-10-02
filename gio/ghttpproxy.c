@@ -1,4 +1,4 @@
-/* GIO - GLib Input, Output and Streaming Library
+﻿/* GIO - GLib Input, Output and Streaming Library
  *
  * Copyright (C) 2010 Collabora, Ltd.
  * Copyright (C) 2014 Red Hat, Inc.

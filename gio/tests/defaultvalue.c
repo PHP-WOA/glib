@@ -1,4 +1,4 @@
-/* GIO default value tests
+﻿/* GIO default value tests
  * Copyright (C) 2013 Red Hat, Inc.
  *
  * This library is free software; you can redistribute it and/or

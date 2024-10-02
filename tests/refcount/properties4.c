@@ -1,4 +1,4 @@
-#include <glib.h>
+﻿#include <glib.h>
 #include <glib-object.h>
 
 #define MY_TYPE_BADGER              (my_badger_get_type ())
