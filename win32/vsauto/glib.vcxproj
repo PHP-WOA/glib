@@ -224,10 +224,10 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <LinkIncremental Condition="'$(Configuration)'=='Debug_BundledPCRE'">true</LinkIncremental>
-    <OutDir Condition="'$(Configuration)'=='Debug_BundledPCRE'">Debug\$(Platform)\bin\</OutDir>
+    <OutDir Condition="'$(Configuration)'=='Debug_BundledPCRE'">Debug\$(PlatformTarget)\bin\</OutDir>
     <LinkIncremental Condition="'$(Configuration)'=='Debug'">true</LinkIncremental>
     <LinkIncremental Condition="'$(Configuration)'=='Release_BundledPCRE'">false</LinkIncremental>
-    <OutDir Condition="'$(Configuration)'=='Release_BundledPCRE'">Release\$(Platform)\bin\</OutDir>
+    <OutDir Condition="'$(Configuration)'=='Release_BundledPCRE'">Release\$(PlatformTarget)\bin\</OutDir>
     <LinkIncremental Condition="'$(Configuration)'=='Release'">false</LinkIncremental>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug_BundledPCRE|Win32'">

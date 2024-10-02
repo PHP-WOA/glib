@@ -4,7 +4,7 @@
     <Import Project="glib-build-defines.props" />
   </ImportGroup>
   <PropertyGroup Label="UserMacros">
-    <BinDir>$(SolutionDir)$(Configuration)\$(Platform)\bin</BinDir>
+    <BinDir>$(SolutionDir)$(Configuration)\$(PlatformTarget)\bin</BinDir>
     <GlibDoInstall>
 mkdir $(CopyDir)
 mkdir $(CopyDir)\bin
