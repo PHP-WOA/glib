@@ -4,7 +4,7 @@
     <VSVer>16</VSVer>
     <GlibVersion>2.53.3</GlibVersion>
     <ApiVersion>2.0</ApiVersion>
-    <GlibEtcInstallRoot>..\..\..\vs$(VSVer)\$(PlatformTarget)</GlibEtcInstallRoot>
+    <GlibEtcInstallRoot>..\..\installed\$(PlatformTarget)</GlibEtcInstallRoot>
     <CopyDir>$(GlibEtcInstallRoot)</CopyDir>
     <GlibLibtoolCompatibleDllPrefix>lib</GlibLibtoolCompatibleDllPrefix>
     <GlibLibtoolCompatibleDllSuffix>-$(ApiVersion)-0</GlibLibtoolCompatibleDllSuffix>

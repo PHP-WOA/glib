@@ -6,3 +6,4 @@ config.h
 glibconfig.h
 gnetworking.h
 gmoduleconf.h
+installed/
